@@ -1,0 +1,13 @@
+.jumbotron {
+    background: linear-gradient(45deg, #1e90ff, #00bfff);
+    color: white;
+    padding: 50px 25px;
+}
+
+.body-content {
+    padding: 20px;
+}
+
+.body-content .row {
+    margin-bottom: 20px;
+}
